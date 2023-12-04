@@ -21,6 +21,7 @@ In this project we aim to create a system to detect and track the plates of the 
     - plate_image_video: interest zone detected
     - Text_recognition_example: example of the text detected display
     - output_example: example of the output
+- Demonstration: video with the expected output
 ## Future developments
 ## Bibliography
 - Brouton Lab. (s.f.).From: https://broutonlab.com/blog/opencv-object-tracking/
