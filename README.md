@@ -16,6 +16,9 @@ In this project we aim to create a system to detect and track the plates of the 
     - Corner_detection_4: corners detected on the extrated plate
     - example4: original image
 - corner_calibration: corner calibration results
+- Images_detection: intermediate images obtained during the detection
+    - binary_image_video: binarized image of the detected plate
+    - plate_image_video: interest zone detected
 ## Future developments
 ## Bibliography
 
