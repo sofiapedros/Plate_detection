@@ -22,7 +22,8 @@ In this project we aim to create a system to detect and track the plates of the 
     - Text_recognition_example: example of the text detected display
     - output_example: example of the output
 - Demonstration: video with the expected output
-- 
+- Infografía: infography with the results and parts of the system
+  
 ## Future developments
 For future improvements, we would like to improve the tracker so it can work with a lowe frame rate
 
