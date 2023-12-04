@@ -15,6 +15,7 @@ In this project we aim to create a system to detect and track the plates of the 
     - Plate_zoomed_in_4: extracted plate
     - Corner_detection_4: corners detected on the extrated plate
     - example4: original image
+- corner_calibration: corner calibration results
 ## Future developments
 ## Bibliography
 
