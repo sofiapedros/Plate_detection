@@ -8,5 +8,3 @@ In this project we aim to create a system to detect and track the plates of the 
 ## Future developments
 ## Bibliography
 
-A lo mejor
-https://github.com/computervisioneng/automatic-number-plate-recognition-python/blob/master/yolov3-from-opencv-object-detection/main.py
