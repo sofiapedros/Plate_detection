@@ -22,7 +22,10 @@ In this project we aim to create a system to detect and track the plates of the 
     - Text_recognition_example: example of the text detected display
     - output_example: example of the output
 - Demonstration: video with the expected output
+- 
 ## Future developments
+For future improvements, we would like to improve the tracker so it can work with a lowe frame rate
+
 ## Bibliography
 - Brouton Lab. (s.f.).From: https://broutonlab.com/blog/opencv-object-tracking/
 - CircuitDigest. (s.f.). From: https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
