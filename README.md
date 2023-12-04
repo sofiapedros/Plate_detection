@@ -8,6 +8,7 @@ In this project we aim to create a system to detect and track the plates of the 
 - Detect.py: final script to detect plates and track them
 - plate_detection_shapes.py: pattern recognition of a plate with shapes
 - save_snaps_script.py: script to capture frames from the camera
+- calibration_images: images used for calibration
 
 ## Results
 - results_pattern_shape_detection: results of the plate_detection_shapes.py
