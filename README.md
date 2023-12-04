@@ -19,6 +19,8 @@ In this project we aim to create a system to detect and track the plates of the 
 - Images_detection: intermediate images obtained during the detection
     - binary_image_video: binarized image of the detected plate
     - plate_image_video: interest zone detected
+    - Text_recognition_example: example of the text detected display
+    - output_example: example of the output
 ## Future developments
 ## Bibliography
 
