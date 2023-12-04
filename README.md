@@ -10,6 +10,10 @@ In this project we aim to create a system to detect and track the plates of the 
 - save_snaps_script.py: script to capture frames from the camera
 
 ## Results
+- results_pattern_shape_detection: results of the plate_detection_shapes.py
+    - Plate_zoomed_in_4: extracted plate
+    - Corner_detection_4: corners detected on the extrated plate
+    - example4: original image
 ## Future developments
 ## Bibliography
 
