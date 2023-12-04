@@ -40,7 +40,7 @@ For future improvements, we would like to improve the tracker so it can work wit
 - PyimageSearch. (s.f.). From: https://pyimagesearch.com/2016/02/08/opencv-shape-detection/
 - PyShine. (s.f.). From: https://pyshine.com/Object-tracking-in-Python/
 - Python geeks. (s.f.). From: Python OpenCV Detect and Recognize Car License Plate: https://pythongeeks.org/python-opencv-detect-and-recognize-car-license-plate/
-Science Arena Publications . (s.f.). From: https://sciarena.com/storage/models/article/qsUEQ6r5ctgGUtrfc2jcseg7W7qxqG748SOgFni8Mp9x6JfxwZKu5u5gPvl7/comparison-of-api-trackers-in-opencv-using-raspberry-pi-hardware.pdf
-Stackoverflow. (s.f.). From: https://stackoverflow.com/questions/50984205/how-to-find-corners-points-of-a-shape-in-an-image-in-opencv
+- Science Arena Publications . (s.f.). From: https://sciarena.com/storage/models/article/qsUEQ6r5ctgGUtrfc2jcseg7W7qxqG748SOgFni8Mp9x6JfxwZKu5u5gPvl7/comparison-of-api-trackers-in-opencv-using-raspberry-pi-hardware.pdf
+- Stackoverflow. (s.f.). From: https://stackoverflow.com/questions/50984205/how-to-find-corners-points-of-a-shape-in-an-image-in-opencv
 
 
